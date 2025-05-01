@@ -7,7 +7,7 @@ anox-drugsell is a zone-based drug system with dynamic prices and a reputation s
 Sell more to build reputation (rep) for each drug, increasing your chances of successful NPC deals.  
 Set your own prices — but if your rep is low and your price is too high, NPCs might reject you or even alert the police.
 
-- [Preview](https://www.youtube.com/watch?v=iX4n9J9sfHQ)
+- [Preview](https://www.youtube.com/watch?v=H_IpnXKoKDI)
 - [Docs](https://anoxstudios.gitbook.io/anoxstudios/free-scripts/anox-blackmarket)
 - [Discord](https://discord.gg/gbJ5SyBJBv)
 ---

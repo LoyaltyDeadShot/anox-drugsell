@@ -7,6 +7,9 @@ anox-drugsell is a zone-based drug system with dynamic prices and a reputation s
 Sell more to build reputation (rep) for each drug, increasing your chances of successful NPC deals.  
 Set your own prices — but if your rep is low and your price is too high, NPCs might reject you or even alert the police.
 
+- [Preview](https://www.youtube.com/watch?v=iX4n9J9sfHQ)
+- [Docs](https://anoxstudios.gitbook.io/anoxstudios/free-scripts/anox-blackmarket)
+- [Discord](https://discord.gg/gbJ5SyBJBv)
 ---
 
 ## ✨ Features
@@ -76,4 +79,12 @@ Set your own prices — but if your rep is low and your price is too high, NPCs 
 - Tested and optimized for smooth server performance.
 
 ---
+![SOLD DRUG](https://github.com/user-attachments/assets/c9e3c64e-c2b0-499c-8932-0dee396b9d35)
+![SETTING_CUSTOM_PRICE](https://github.com/user-attachments/assets/136e1edf-300a-453e-b476-9d281f4795c3)
+![SELLING_DRUG](https://github.com/user-attachments/assets/d2adc756-8711-4d4e-ad30-985b3fd04480)
+![POLICE_DISPATCH](https://github.com/user-attachments/assets/cb7b7b86-1f14-4ec3-bc7a-426b9aa377af)
+![INFO_BOX_FOR_DRUGS](https://github.com/user-attachments/assets/902ca4ac-6a54-499c-98bc-3e35c439d5e3)
+![DRUG_SELLING_MENU](https://github.com/user-attachments/assets/549c9ecb-8abd-44bb-afb7-054335b5c4cc)
+![BUYER_REFUSED_DEAL](https://github.com/user-attachments/assets/a0b13639-225a-40b3-850c-6adf7224ce36)
+![AFTER_USING_CMD_DRUGSELL](https://github.com/user-attachments/assets/5684be98-8f97-4eca-899d-a8036188c899)
 
